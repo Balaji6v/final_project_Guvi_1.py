@@ -16,5 +16,5 @@ The goal of this capstone project is to automate various test scenarios on [Sauc
 
 ---
 
-## 🧾 Project Structure
+##  Project Structure
 
